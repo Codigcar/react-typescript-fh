@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Timer } from './Timer'
+import { Timer } from './4_Timer'
 
 export const TimerPadre = () => {
     const [milisegundos, setMilisegundos] = useState(1000)
